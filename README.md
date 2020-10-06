@@ -1,3 +1,36 @@
+# darkModeChallenge
+
+## Cómo ejecutar:
+-Ir a la branch "Master"
+
+-Descargar el repositorio
+
+-Correr el siguiente código
+
+```
+npm i
+```
+```
+npm start
+```
+
+Realizado en base al este desafío:
+https://github.com/alexgurr/react-coding-challenges/tree/master/dark-mode
+
+Datos de contacto:
+
+Ignacio Rodríguez Villasuso
+
+ignaciorodvil@gmail.com
+
+https://www.linkedin.com/in/ignaciorodvil/
+
+1165342325
+
+
+--------------------------------------------------------------------
+
+
 # Dark Mode Pairing/Small Coding Challenge 🌙
 
 ### Difficulty: Medium | Time required: ~ 30 minutes
